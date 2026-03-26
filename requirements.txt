@@ -1,5 +1,6 @@
 asgiref==3.11.1
 gunicorn==23.0.0
+django-cors-headers==4.7.0
 whitenoise==6.11.0
 beautifulsoup4==4.14.3
 certifi==2026.2.25
